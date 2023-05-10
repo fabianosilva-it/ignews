@@ -1,5 +1,5 @@
 
-import styles from '../styles/home.modules.scss'
+import styles from '../styles/home.module.scss'
 
 export default function Home() {
   return (
